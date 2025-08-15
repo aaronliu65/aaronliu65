@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on HostLink (HK) Limited
+# - 🔭 I’m currently working on HostLink (HK) Limited
 
 
 # 💻 Tech Stack:
